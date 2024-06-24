@@ -1,3 +1,3 @@
 # Krayson Studio 🪐
 
-*~ Repositorio oficial para el perfil de github.*
+~ *Repositorio oficial para el perfil de github.*
