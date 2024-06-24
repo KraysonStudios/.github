@@ -4,9 +4,9 @@
 
 ## Servicios 🛍️
 
-  📚  Programación de Programas personalizados, bots de Discord personalizados y páginas Web.
-  🧸  Creación, configuración, venta de servidores y networks de __**Minecraft**__.
-  ☀️  Hosting para __**bots**__ de __**Discord**__ con un 30% de descuento para todos los planes.
+- 📚  Programación de Programas personalizados, bots de Discord personalizados y páginas Web.
+- 🧸  Creación, configuración, venta de servidores y networks de __**Minecraft**__.
+- ☀️  Hosting para __**bots**__ de __**Discord**__ con un 30% de descuento para todos los planes.
 
 <!---
 Discord Markdown Badge API
