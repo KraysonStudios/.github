@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://github.com/KraysonStudios/.github/blob/main/assets/Krayson%20Studios.png" alt= "logo" style= "width: 400px; height: 400px;"> </img>
+  <img src= "https://github.com/KraysonStudios/.github/blob/main/assets/Krayson%20Studios.png" alt= "logo" style= "width: 512px; height: 512px;"> </img>
 </p>
 
 # Krayson Studios 🪐
